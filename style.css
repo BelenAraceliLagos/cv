@@ -1,0 +1,15 @@
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: lightgray;
+    color: white;
+  }
+
+h1{
+  background-color: grey;
+}
+
+#contacto {
+  border-block-style: solid;
+  border-block-color: grey;
+}
